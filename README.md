@@ -1,6 +1,6 @@
 # My TurboWarp Extensions
 
-> **⚠️ IMPORTANT DISCLAIMER**
+> **/!\ IMPORTANT DISCLAIMER**
 > 
 > This is an **UNOFFICIAL** extension gallery and is **NOT** endorsed by, affiliated with, or supported by the TurboWarp project.
 > 
